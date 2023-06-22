@@ -1,5 +1,3 @@
-# Windows-Sandbox-with-Local-Disk
-
 #### Windows Features
 
 Use the search bar on the task bar and type Turn Windows Features on or off to access the Windows Optional Features tool. Select Windows Sandbox and then OK. Restart the computer if you're prompted.
